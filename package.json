@@ -1,0 +1,17 @@
+{
+  "name": "to-do-api-hw",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js + Express.js project that creates a RESTful API for managing a Todo list. The frontend is a static HTML page that interacts with the backend using the Fetch API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
